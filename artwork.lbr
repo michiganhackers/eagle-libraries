@@ -198,6 +198,92 @@
 <vertex x="8.255" y="5.715"/>
 </polygon>
 </package>
+<package name="SMALL-MH-CIRCLE-SOLDER">
+<polygon width="0.127" layer="29">
+<vertex x="1.778" y="12.065"/>
+<vertex x="0.381" y="12.065" curve="90"/>
+<vertex x="0" y="11.684"/>
+<vertex x="0" y="6.477"/>
+<vertex x="-1.524" y="6.35"/>
+<vertex x="-1.524" y="6.096"/>
+<vertex x="8.255" y="7.112"/>
+<vertex x="8.255" y="7.493"/>
+<vertex x="6.731" y="7.366"/>
+<vertex x="6.731" y="11.684" curve="90"/>
+<vertex x="6.35" y="12.065"/>
+<vertex x="4.953" y="12.065" curve="90"/>
+<vertex x="4.572" y="11.684"/>
+<vertex x="4.572" y="7.239" curve="-90"/>
+<vertex x="4.318" y="6.985"/>
+<vertex x="2.54" y="6.985" curve="-90"/>
+<vertex x="2.159" y="7.366"/>
+<vertex x="2.159" y="11.684" curve="90"/>
+</polygon>
+<polygon width="0.127" layer="29">
+<vertex x="-1.524" y="4.699"/>
+<vertex x="-1.524" y="4.445"/>
+<vertex x="0" y="4.572"/>
+<vertex x="0" y="0" curve="90"/>
+<vertex x="0.254" y="-0.254"/>
+<vertex x="1.778" y="-0.254" curve="90"/>
+<vertex x="2.159" y="0.127"/>
+<vertex x="2.159" y="4.572" curve="-90"/>
+<vertex x="2.413" y="4.826"/>
+<vertex x="4.318" y="4.826" curve="-90"/>
+<vertex x="4.699" y="4.445"/>
+<vertex x="4.699" y="0.127" curve="90"/>
+<vertex x="5.08" y="-0.254"/>
+<vertex x="6.35" y="-0.254" curve="90"/>
+<vertex x="6.731" y="0.127"/>
+<vertex x="6.731" y="5.334"/>
+<vertex x="8.255" y="5.461"/>
+<vertex x="8.255" y="5.715"/>
+</polygon>
+<circle x="3.556" y="5.969" radius="7.62" width="0.3048" layer="29"/>
+</package>
+<package name="SMALL-MH-CIRCLE">
+<polygon width="0.127" layer="25">
+<vertex x="1.778" y="12.065"/>
+<vertex x="0.381" y="12.065" curve="90"/>
+<vertex x="0" y="11.684"/>
+<vertex x="0" y="6.477"/>
+<vertex x="-1.524" y="6.35"/>
+<vertex x="-1.524" y="6.096"/>
+<vertex x="8.255" y="7.112"/>
+<vertex x="8.255" y="7.493"/>
+<vertex x="6.731" y="7.366"/>
+<vertex x="6.731" y="11.684" curve="90"/>
+<vertex x="6.35" y="12.065"/>
+<vertex x="4.953" y="12.065" curve="90"/>
+<vertex x="4.572" y="11.684"/>
+<vertex x="4.572" y="7.239" curve="-90"/>
+<vertex x="4.318" y="6.985"/>
+<vertex x="2.54" y="6.985" curve="-90"/>
+<vertex x="2.159" y="7.366"/>
+<vertex x="2.159" y="11.684" curve="90"/>
+</polygon>
+<polygon width="0.127" layer="25">
+<vertex x="-1.524" y="4.699"/>
+<vertex x="-1.524" y="4.445"/>
+<vertex x="0" y="4.572"/>
+<vertex x="0" y="0" curve="90"/>
+<vertex x="0.254" y="-0.254"/>
+<vertex x="1.778" y="-0.254" curve="90"/>
+<vertex x="2.159" y="0.127"/>
+<vertex x="2.159" y="4.572" curve="-90"/>
+<vertex x="2.413" y="4.826"/>
+<vertex x="4.318" y="4.826" curve="-90"/>
+<vertex x="4.699" y="4.445"/>
+<vertex x="4.699" y="0.127" curve="90"/>
+<vertex x="5.08" y="-0.254"/>
+<vertex x="6.35" y="-0.254" curve="90"/>
+<vertex x="6.731" y="0.127"/>
+<vertex x="6.731" y="5.334"/>
+<vertex x="8.255" y="5.461"/>
+<vertex x="8.255" y="5.715"/>
+</polygon>
+<circle x="3.556" y="5.969" radius="7.62" width="0.3048" layer="21"/>
+</package>
 </packages>
 <symbols>
 </symbols>
